@@ -1,0 +1,30 @@
+.odd-number-paragraph {
+  background-color: rgb(255, 182, 193);
+  font-family: Verdana, "DejaVu Sans", sans-seif;
+}
+
+#second-element {
+  color: #0000FF;
+  font-size: 36px;
+}
+
+.cooler-paragraph {
+  font-size: 24px;
+}
+
+#fourth-element {
+  background-color: hsl(120, 73%, 75%);
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* !alternative! (correct answer)
+.cooler-paragraph {
+  font-size: 24px;
+}
+
+#fourth-element {
+  background-color: hsl(120, 73%, 75%);
+  font-weight: bold;
+}
+*/
